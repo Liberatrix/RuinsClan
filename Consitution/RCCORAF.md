@@ -1,4 +1,4 @@
-__<p align="center"> Ruins Clan Charter of Rights and Freedoms (RCCORAF)</p>__
+# __<p align="center"> Ruins Clan Charter of Rights and Freedoms (RCCORAF)</p>__
 > Whereas Ruins Clan is founded upon principles that recognize the supremacy of Higher Power and the rule of law:
 ## <p align="center"> Guarantee of Rights and Freedoms </p>
 *`Rights and freedoms in Ruins Clan`*
