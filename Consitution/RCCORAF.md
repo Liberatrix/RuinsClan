@@ -102,74 +102,75 @@
 *`Affirmative action programs`*
 
   - (2) From the subsection above (1) does not preclude / stops any by-law, program or activity that has its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
-  ##  <p align="center"> Official Language(s) of Ruins Clan </p>
 
-  *`Official Language(s)`*
+##  <p align="center"> Official Language(s) of Ruins Clan </p>
 
-  16. To all members within Ruins Clan:
-   - (1) English and French are the official languages of Ruins Clan and have equality of status and equal rights and privileges as to their use in all administration within the assemblies in Ruins Clan.
+*`Official Language(s)`*
 
-  *`Advancement of status and use`*
+ 16. To all members within Ruins Clan:
+  - (1) English and French are the official languages of Ruins Clan and have equality of status and equal rights and privileges as to their use in all administration within the assemblies in Ruins Clan.
 
-   - (2) Nothing in this Charter limits the authority of High Command or a Department to advance the equality of status or use of English and French.
+*`Advancement of status and use`*
 
-  *`English and French linguistic`*
+  - (2) Nothing in this Charter limits the authority of High Command or a Department to advance the equality of status or use of English and French.
 
-  17. To all English and French speakers:
-   - (1) The English linguistic community and the French linguistic community in Ruins Clan have equality status and equal rights and privileges, including the right to distinct educational resources and suck distinct cultural references and such distinct cultural information as are necessary for the preservation and promotion of those communities.
+*`English and French linguistic`*
 
-  *`Role of High Command and the Departments`*
-   - (2) The role of High Command and the department in question to preserve and promote the status, rights and privileges referred to in subsection / the directly above (1) is affirmed.
+ 17. To all English and French speakers:
+  - (1) The English linguistic community and the French linguistic community in Ruins Clan have equality status and equal rights and privileges, including the right to distinct educational resources and suck distinct cultural references and such distinct cultural information as are necessary for the preservation and promotion of those communities.
 
-  *`Proceedings of High Command`*
-   17. To all members part of proceedings of functions
-    - (1) Everyone has the right to use English or French in any debates and other proceedings of High Command.
+*`Role of High Command and the Departments`*
+  - (2) The role of High Command and the department in question to preserve and promote the status, rights and privileges referred to in subsection / the directly above (1) is affirmed.
 
-  *`Proceedings of other functions`*
+*`Proceedings of High Command`*
+ 17. To all members part of proceedings of functions
+  - (1) Everyone has the right to use English or French in any debates and other proceedings of High Command.
 
-    - (2) Everyone has the right to use English or French in any debates and other proceedings within the functions of Ruins Clan.
+*`Proceedings of other functions`*
 
-  *`Ruins Clan statutes and records`*
+  - (2) Everyone has the right to use English or French in any debates and other proceedings within the functions of Ruins Clan.
 
-   18. To all documents:
+*`Ruins Clan statutes and records`*
 
-    - (1) The statutes, records and journals of High Command shall be written and published in English and French and both language versions are equally authoritative.
+ 18. To all documents:
 
-  *`Other proceedings`*
+  - (1) The statutes, records and journals of High Command shall be written and published in English and French and both language versions are equally authoritative.
 
-  19. To all other proceedings:
+*`Other proceedings`*
 
-   - (1) Either English or French may be used by any person in, or in any pleading in or process issuing from, any assembly established by High Command.
+ 19. To all other proceedings:
 
-  *`Communications by members with squads of Ruins Clan`*
+  - (1) Either English or French may be used by any person in, or in any pleading in or process issuing from, any assembly established by High Command.
 
-   20. To anyone in the world:
-    - (1) Any member within Ruins Clan has the right to communicate with, and to receive available services from, any head of a squad within Ruins Clan in English or French, and has the same right with respect to any other area of any such squad where
-     - (a) there is a significant demand for communications with and services from that squad in such language; or
-     - (b) due to the nature of squad, it is reasonable that communications with and services from that squad be available in both English and French
+*`Communications by members with squads of Ruins Clan`*
 
-  *`Communications by members within Ruins Clan and the public to High Command`*
+ 20. To anyone in the world:
+  - (1) Any member within Ruins Clan has the right to communicate with, and to receive available services from, any head of a squad within Ruins Clan in English or French, and has the same right with respect to any other area of any such squad where
+   - (a) there is a significant demand for communications with and services from that squad in such language; or
+   - (b) due to the nature of squad, it is reasonable that communications with and services from that squad be available in both English and French
+
+*`Communications by members within Ruins Clan and the public to High Command`*
 
     - (2) Any member within Ruins Clan and non-members (the public) has the right to communicate with, and receive available services from, High Command in English or French.
 
-  *`Continuation of existing constitutional provisions`*
+*`Continuation of existing constitutional provisions`*
 
    21. Nothing in sections 16 to 20 abrogates or derogates from any right, privilege or obligation with respect to the English and French languages, or either of them, that exists or is continued by virtue of any other provision of the Constitution of Ruins Clan.
 
-  *`Rights and privileges preserved`*
+*`Rights and privileges preserved`*
 
    22. Nothing in sections 16 to 20 abrogates or derogates from any legal or customary right or privilege acquired or enjoyed either before or after the coming into force of this Charter with respect to any language that is not English or French.
 
   ##  <p align="center"> Enforcement </p>
 
-  *`Enforcement of guaranteed rights and freedoms`*
+*`Enforcement of guaranteed rights and freedoms`*
 
    23. To all members of Ruins Clan
     - (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may speak to High Command to obtain such remedy as High Command considers appropriate and just in the circumstances.
 
-  *`Exclusion of evidence bringing administration of justice into disrepute`*
+*`Exclusion of evidence bringing administration of justice into disrepute`*
 
-    - (2) Where, in proceedings under subsection (1), High Command concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+  - (2) Where, in proceedings under subsection (1), High Command concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
 
   ##  <p align="center"> General </p>
 
