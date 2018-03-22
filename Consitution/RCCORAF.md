@@ -1,8 +1,8 @@
-# <p align="center"> Ruins Clan Charter of Rights and Freedoms (RCCORAF)</p>
+__<p align="center"> Ruins Clan Charter of Rights and Freedoms (RCCORAF)</p>__
 > Whereas Ruins Clan is founded upon principles that recognize the supremacy of Higher Power and the rule of law:
 ## <p align="center"> Guarantee of Rights and Freedoms </p>
 *`Rights and freedoms in Ruins Clan`*
- 1. The Ruins Clan Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by by-law as can be demonstrably justified in a free and democratic society.
+ 1. The Ruins Clan Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
 ##  <p align="center"> Fundamental freedoms </p>
 *`Fundamental freedoms`*
 
@@ -44,13 +44,13 @@
 
 *`Affirmative action programs`*
 
- - (4) The rights specified in the above (2) and (3) do not preclude/stop any by-law, program or activity that has as its object the amelioration in a squad of conditions of individuals in that squad who are socially, physically or economically disadvantaged.
+ - (4) The rights specified in the above (2) and (3) do not preclude/stop any by-law, program or activity that has as its object the amelioration in a squad of conditions of individuals in that squad who are at any type of disadvantaged.
 
 ##  <p align="center"> Legal Rights </p>
 
-*`Life, liberty and security of person`*
+*`Life, liberty and security of being`*
 
- 7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+ 7. Everyone has the right to life, liberty and security of being and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
 
 *`Searches / Questioning`*
 
@@ -71,11 +71,11 @@
 
  11. Any person accuse of an infraction has the right
   - (a) to be informed without unreasonable time;
-  - (b) to be tried within a reasonable time;
+  - (b) to be aproached by High Command within a reasonable time;
   - (c) not to be compelled to be a witness in proceedings against that person in respect of the offence;
   - (d) to be presumed innocent until proven guilty according to High Command;
   - (e) not be denied reasonable re-entry without just cause;
-  - (f) except in the case of an offence under military by-law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is a ban from Ruins Clan for 1 year or a more severe punishment;
+  - (f) except in the case of an offence under military by-law tried before High Command, to the benefit of trial by jury where the maximum punishment for the offence is a ban from military for 1 year or a more severe punishment;
   - (g) if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
   - (h) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.
 
@@ -97,10 +97,11 @@
 
  15. To all members within Ruins Clan
   - (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age, or mental or physical disability.
+    - (a) No discrinination of any kind, including that of other life form(s).
 
 *`Affirmative action programs`*
 
-  - (2) From the subsection above (1) does not preclude / stops any by-law, program or activity that has its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+  - (2) From the subsection above (1) does not preclude / stops any by-law, program or activity that has its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability, including (a).
 
 ##  <p align="center"> Official Language(s) of Ruins Clan </p>
 
@@ -111,7 +112,7 @@
 
 *`Advancement of status and use`*
 
-  - (2) Nothing in this Charter limits the authority of High Command or a Department to advance the equality of status or use of English and French.
+  - (2) Nothing in this Charter limits the authority of High Command or a Commanding Officer to advance the equality of status or use of English and French.
 
 *`English and French linguistic`*
 
@@ -144,10 +145,10 @@
 
 *`Communications by members with squads and within of Ruins Clan`*
 
- 21. To anyone in the world:
-  - (1) Any member within Ruins Clan has the right to communicate with, and to receive available services from, any head of a squad within Ruins Clan in English or French, and has the same right with respect to any other area of any such squad where
+ 21. To anyone in the Universe that is able to communicate:
+  - (1) Any member within Ruins Clan has the right to communicate with, and to receive available services from, High Command in English or French, and has the same right with respect to any other area of any such squad where
     - (a) there is a significant demand for communications with and services from that squad in such language; or
-    - (b) due to the nature of squad, it is reasonable that communications with and services from that squad be available in both English and French
+    - (b) due to the nature of squad, it is reasonable that communications with and services from that squad be available in a variety of language as a per available basis.
 
 *`Communications by members within Ruins Clan and the public to High Command`*
 
@@ -186,9 +187,9 @@
 
  27. Notwithstanding anything in this Charter, the rights and freedoms referred to in it are guaranteed equally to all members.
 
-*`Department & Officers powers not extended`*
+*`Department & Officer powers not extended`*
 
- 28. Nothing in this Charter extends the departments powers of any body or authority.
+ 28. Nothing in this Charter extends the Officers or members of a Department powers of any body or authority.
 
 ##  <p align="center"> Application of Charter </p>
 
@@ -196,3 +197,9 @@
 
  29. This Charter applies:
   - (1) to High Command, Departments, Commanding officer and members within Ruins Clan including squads that are within Ruins Clan.
+  
+## <p align="center"> Citation </p>
+
+*`Citation`*
+
+ 30. This Part may be cited as the Ruins Clan Charter of Rights and Freedoms or RCCORAF.
