@@ -97,7 +97,7 @@
 
 > (of a person or area) in unfavorable circumstances.
 
-#### <p align="center"> Legal Rights </p>
+## <p align="center"> Legal Rights </p>
 
 [Link to topics in Official Document](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/RCCORAF.md#-legal-rights-)
 
@@ -152,4 +152,29 @@
 #### Interpreter:
 
 > a person who interprets, especially one who translates.
+
+## <p align="center"> Equality Rights </p>
+
+[Link to topics in Official Document](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/RCCORAF.md#-equality-rights-)
+
+#### Individual:
+
+> a single member of Ruins Clan
+
+#### Equal:
+
+> a member considered to be the same as another in status or quality.
+
+#### Protection:
+
+> the state of being protected.
+
+#### Discrimination:
+
+> the unjust or prejudicial treatment of different categories of people that are members.
+
+
+
+
+
 
