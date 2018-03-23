@@ -23,53 +23,53 @@
 
 > an inner feeling or voice.
 
-### Religion:
+#### Religion:
 
 > the belief in and worship of a controlling power, especially a personal God or gods.
 > - a particular system of faith and worship.
 
-### Thought:
+#### Thought:
 
 > an idea or opinion produced by thinking or occurring suddenly in the mind.
 
-### Belief:
+#### Belief:
 
 > an acceptance that a statement is true or that something exists.
 > - something one accepts as true or real; a firmly held opinion or conviction.
 
-### Opinion:
+#### Opinion:
 
 > a view or judgment formed about something, not necessarily based on fact or knowledge.
 
-### Expression:
+#### Expression:
 
 > the process of making known one's thoughts or feelings.
 
-### Press:
+#### Press:
 
 > coverage in newspapers and magazines.
 
-### Media:
+#### Media:
 
 > the main means of mass communication
 
-### Assembly:
+#### Assembly:
 
 > a group of people gathered together in one place for a common purpose.
 
-### association:
+#### association:
 
 > a connection or cooperative link between people or organizations.
 
-### Writs:
+#### Writs:
 
 > a form of written command in the name of High Command or other legal authority to act, or abstain from acting, in some way.
 
-### Insurrection:
+#### Insurrection:
 
 > a uprising against High Command or Ruins Clan and its members.
 
-### Sitting:
+#### Sitting:
 
 > a continuous period of being seated, especially when engaged in a particular activity.
 
@@ -77,83 +77,83 @@
 
 [Link to topics in Official Document](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/RCCORAF.md#-mobility-rights-)
 
-### Subject:
+#### Subject:
 
 > dependent or conditional upon.
 
-### By-law:
+#### By-law:
 
 > a rule made by High Command & Ruins Clan.
 
-### Practice:
+#### Practice:
 
 > the actual application or use of an idea, belief, or method.
 
-### Application:
+#### Application:
 
 > a formal request.
 
-### Affirmative:
+#### Affirmative:
 
 > a statement of agreement.
 
-### Disadvantaged:
+#### Disadvantaged:
 
 > (of a person or area) in unfavorable circumstances.
 
-## <p align="center"> Legal Rights </p>
+#### <p align="center"> Legal Rights </p>
 
 [Link to topics in Official Document](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/RCCORAF.md#-legal-rights-)
 
-### Life:
+#### Life:
 
 > the period between the birth and death of a living thing, especially a human being.
 
-### Liberty:
+#### Liberty:
 
 > the power or the extent of the area to act as one pleases.
 
-### Security:
+#### Security:
 
 > the state of being free from danger or threat.
 
-### Being:
+#### Being:
 
 > a real or imaginary living creature.
 
-### Banish:
+#### Banish:
 
 > send (someone) away from Ruins Clan as an official punishment.
 
-### Infraction:
+#### Infraction:
 
 > a violation or infringement of a law, by-law, agreement, or set of rules.
 
-### Validity
+#### Validity
 
 > the quality of being logically or factually sound; soundness or cogency.
 
-### Proceedings:
+#### Proceedings:
 
 > action taken with High Command to settle a dispute.
 
-### Compelled:
+#### Compelled:
 
 > force or oblige (someone) to do something.
 
-### Presume:
+#### Presume:
 
 > suppose that something is the case on the basis of probability.
 
-### Acquit:
+#### Acquit:
 
 > free (someone) from a punishment by a verdict of not guilty.
 
-### Incriminating:
+#### Incriminating:
 
 > make (someone) appear guilty of an infraction or wrongdoing; strongly imply the guilt of (someone).
 
-### Interpreter:
+#### Interpreter:
 
 > a person who interprets, especially one who translates.
 
