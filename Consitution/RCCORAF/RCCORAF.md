@@ -97,7 +97,7 @@
 *`Equality before and under law and equal protection and benefit of law`*
 
  15. To all members within Ruins Clan
-  - (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age, or mental or physical disability.
+  - (1) Every [individual](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#individual) is [equal](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#equal) before and under the law and has the right to the equal [protection](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#protection) and equal benefit of the law without [discrimination](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#discrimination) and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age, or mental or physical disability.
     - (a) No discrinination of any kind, including that of other life form(s).
 
 *`Affirmative action programs`*
@@ -113,12 +113,12 @@
 
 *`Advancement of status and use`*
 
-  - (2) Nothing in this Charter limits the authority of High Command or a Commanding Officer to advance the equality of status or use of English and French.
+  - (2) Nothing in this Charter limits the authority of High Command or a Commanding Officer or a Head of Department to advance the equality of status or use of English and French.
 
 *`English and French linguistic`*
 
  17. To all English and French speakers:
-  - (1) The English linguistic community and the French linguistic community in Ruins Clan have equality status and equal rights and privileges, including the right to the same educational resources and to the same cultural references and such information as are necessary for the preservation and promotion of those communities.
+  - (1) The English linguistic community and the French linguistic community in Ruins Clan have equality status and equal rights and privileges, including the right to the same but different language of educational resources and to the same cultural references and such information as are necessary for the preservation and promotion of those communities.
 
 *`Role of the Overlord`*
   - (2) The role of the Overlord within this domain, is to preserve and promote the status, rights and privileges referred to in subsection / the directly above (1) is affirmed.
