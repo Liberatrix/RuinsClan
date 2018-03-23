@@ -54,7 +54,7 @@
 
 *`Searches / Questioning`*
 
- 8. Everyone has the right to be secure against unreasonable search or questioning.
+ 8. Everyone has the right to be secure against unreasonable search or questions.
 
 *`Kick / Banish`*
 
@@ -75,9 +75,8 @@
   - (c) not to be compelled to be a witness in proceedings against that person in respect of the offence;
   - (d) to be presumed innocent until proven guilty according to High Command;
   - (e) not be denied reasonable re-entry without just cause;
-  - (f) except in the case of an offence under military by-law tried before High Command, to the benefit of trial by jury where the maximum punishment for the offence is a ban from military for 1 year or a more severe punishment;
-  - (g) if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
-  - (h) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.
+  - (f) if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
+  - (g) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.
 
 *`Treatment or punishment`*
 
