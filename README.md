@@ -1,4 +1,4 @@
-[sélectionnez ici pour la section Française](#français)
+[sélectionnez ici pour la section Française](#ruins-clan-1)
 
 *`English`*
 
@@ -10,7 +10,7 @@
 ## Who are we?
 > Ruins Clan is a gaming comunity that is striving for more each year. From a small group of friends to an ever ending fun of meeting new people and growing into an actual community that fosters weekly activities for everyone that is interested in the joys of belonging somewhere.
 
-[click here for English](#english)
+[click here for English](#ruins-clan)
 
 *`Français`*
 
