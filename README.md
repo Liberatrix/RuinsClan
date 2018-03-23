@@ -1,7 +1,10 @@
 [sélectionnez ici pour la section Française](#anchor-français)
 
 *`English`*
-# Ruins Clan (#anchor-english)
+
+(#anchor-english)
+
+# Ruins Clan
 > An experience international community, with its base of operation in Canada. We mix the old with the new and play together as a team over the internet. 
 
 ## Who are we?
@@ -10,6 +13,9 @@
 [click here for English](#anchor-english)
 
 *`Français`*
-# Ruins Clan (#anchor-français)
+
+(#anchor-français)
+
+# Ruins Clan
 > Une communauté internationale avec de l'expérience, qui est procédée du Canada. Nous mélangeons le vieux avec les nouveaux et nous jouons ensemble comme une équipe sur l'internet.
 
