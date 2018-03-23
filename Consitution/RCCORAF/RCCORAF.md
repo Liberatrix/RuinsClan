@@ -1,5 +1,5 @@
 # __<p align="center"> Ruins Clan Charter of Rights and Freedoms ([RCCORAF](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#rccoraf))</p>__
-> Whereas Ruins Clan is founded upon principles that recognize the supremacy of Higher Power and the rule of law:
+> Whereas Ruins Clan is founded upon principles that recognize the supremacy of [Higher Power](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#higher-power) and the rule of law:
 ## <p align="center"> Guarantee of Rights and Freedoms </p>
 *`Rights and freedoms in Ruins Clan`*
  1. The Ruins Clan Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
@@ -8,9 +8,9 @@
 
  2. Everyone has the following fundamental freedoms:
   - (a) freedom of [conscience](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#conscience) and [religion](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#religion):
-  - (b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;
-  - (c) freedom of peaceful assembly; and
-  - (d) freedom of association
+  - (b) freedom of [thought](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#thought), [belief](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#belief), [opinion](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#opinion) and [expression](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#expression), including freedom of the [press](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#press) and other [media](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#media) of communication;
+  - (c) freedom of peaceful [assembly](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#assembly); and
+  - (d) freedom of [association](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#association)
 
 *`Ruins Clan Democratic rights of members`*
 
@@ -19,7 +19,7 @@
 *`Maximum duration of Commanding Officer`*
 
  4. This applies to all Commanding Officers:
-  - (1) No Commanding Officer shall continue for longer than 6 months from the date fixed for the return of the writs at Commanding Officers election of its members.
+  - (1) No Commanding Officer shall continue for longer than 6 months from the date fixed for the return of the [writs](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#writs) at Commanding Officers election of its members.
 
 *`Continuation in special circumstances`*
   - (2) In time of real or apprehended war, invasion or insurrection, the Overlord may descend his authority and take control of any position, and extend or relieve the Commanding Officer.
