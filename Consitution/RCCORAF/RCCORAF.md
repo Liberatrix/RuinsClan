@@ -1,4 +1,4 @@
-# __<p align="center"> Ruins Clan Charter of Rights and Freedoms (RCCORAF)</p>__
+# __<p align="center"> Ruins Clan Charter of Rights and Freedoms ([RCCORAF](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#rccoraf))</p>__
 > Whereas Ruins Clan is founded upon principles that recognize the supremacy of Higher Power and the rule of law:
 ## <p align="center"> Guarantee of Rights and Freedoms </p>
 *`Rights and freedoms in Ruins Clan`*
@@ -7,7 +7,7 @@
 *`Fundamental freedoms`*
 
  2. Everyone has the following fundamental freedoms:
-  - (a) freedom of conscience and religion:
+  - (a) freedom of [conscience](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#conscience) and [religion](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#religion):
   - (b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;
   - (c) freedom of peaceful assembly; and
   - (d) freedom of association
