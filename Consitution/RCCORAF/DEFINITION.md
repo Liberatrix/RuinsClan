@@ -93,10 +93,6 @@
 
 > a formal request.
 
-#### Affirmative:
-
-> a statement of agreement.
-
 #### Disadvantaged:
 
 > (of a person or area) in unfavorable circumstances.
@@ -141,11 +137,11 @@
 
 > force or oblige (someone) to do something.
 
-#### Presume:
+#### Presumed:
 
 > suppose that something is the case on the basis of probability.
 
-#### Acquit:
+#### Acquitted:
 
 > free (someone) from a punishment by a verdict of not guilty.
 
