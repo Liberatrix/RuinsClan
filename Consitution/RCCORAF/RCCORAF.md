@@ -24,9 +24,9 @@
 *`Continuation in special circumstances`*
   - (2) In time of real or apprehended war, invasion or [insurrection](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#insurrection), the Overlord may descend his authority and take control of any position, and extend or relieve the Commanding Officer.
 
-*`tri-monthly [sitting](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#sitting) of all assemblies`*
+*`tri-monthly sitting of all assemblies`*
 
- 5. There shall be a sitting of High Command, Commanding Officers and Departments at least once every three months.
+ 5. There shall be a [sitting](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#sitting) of High Command, Commanding Officers and Departments at least once every three months.
 
 ##  <p align="center"> Mobility Rights </p>
  
@@ -44,7 +44,7 @@
  - (3) The rights specified in the above (2) are [subject](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#subject) to
    - (a) Any [by-laws](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#by-law) or practices of general [application](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#application) in force.
 
-*`[Affirmative](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#affirmative) action programs`*
+*`Affirmative action programs`*
 
  - (4) The rights specified in the above (2) and (3) do not preclude/stop any by-law, program or activity that has as its object the amelioration in a squad of conditions of individuals in that squad who are at any type of [disadvantaged](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#disadvantaged).
 
