@@ -22,12 +22,14 @@
   - (1) No Commanding Officer shall continue for longer than 6 months from the date fixed for the return of the [writs](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#writs) at Commanding Officers election of its members.
 
 *`Continuation in special circumstances`*
-  - (2) In time of real or apprehended war, invasion or insurrection, the Overlord may descend his authority and take control of any position, and extend or relieve the Commanding Officer.
+  - (2) In time of real or apprehended war, invasion or [insurrection](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#insurrection), the Overlord may descend his authority and take control of any position, and extend or relieve the Commanding Officer.
 
-*`tri-monthly sitting of all assemblies`*
+*`tri-monthly [sitting](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#sitting) of all assemblies`*
 
  5. There shall be a sitting of High Command, Commanding Officers and Departments at least once every three months.
+
 ##  <p align="center"> Mobility Rights </p>
+ 
  6. To all members within Ruins Clan
   - (1) Every member of Ruins Clan has the right to enter, remain in and leave Ruins Clan.
 
@@ -39,18 +41,18 @@
 
 *`Limitation`*
 
- - (3) The rights specified in the above (2) are subject to
-   - (a) Any by-laws or practices of general application in force.
+ - (3) The rights specified in the above (2) are [subject](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#subject) to
+   - (a) Any [by-laws](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#by-law) or practices of general [application](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#application) in force.
 
-*`Affirmative action programs`*
+*`[Affirmative](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#affirmative) action programs`*
 
- - (4) The rights specified in the above (2) and (3) do not preclude/stop any by-law, program or activity that has as its object the amelioration in a squad of conditions of individuals in that squad who are at any type of disadvantaged.
+ - (4) The rights specified in the above (2) and (3) do not preclude/stop any by-law, program or activity that has as its object the amelioration in a squad of conditions of individuals in that squad who are at any type of [disadvantaged](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#disadvantaged).
 
 ##  <p align="center"> Legal Rights </p>
 
 *`Life, liberty and security of being`*
 
- 7. Everyone has the right to life, liberty and security of being and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+ 7. Everyone has the right to [life](), [liberty]() and [security]() of [being]() and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
 
 *`Searches / Questioning`*
 
@@ -58,24 +60,24 @@
 
 *`Kick / Banish`*
 
- 9. Everyone has the right not to be arbitrarily/randomly kick or Banish from Ruins Clan.
+ 9. Everyone has the right not to be arbitrarily/randomly kick or [Banish](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#banish) from Ruins Clan.
 
 *`Breaking by-laws, Constitution and Code of Conduct`*
 
- 10. Everyone has the right on a infraction
+ 10. Everyone has the right on a [infraction](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#infraction)
   - (a) to be informed promptly of the reasons therefor;
   - (b) to retain and instruct High Command without delay and to be informed of that right; and
-  - (c) to have the validity of the infraction determined by way of habeas corpus / discussion with High Command and to be relieve of further disciplinary actions if the infraction is seen as deemed unfit for punishment.
+  - (c) to have the [validity](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#validity) of the infraction determined by way of habeas corpus / discussion with High Command and to be relieve of further disciplinary actions if the infraction is seen as deemed unfit for punishment.
 
 *`Proceedings in disciplinary actions and punishment`*
 
  11. Any person accuse of an infraction has the right
   - (a) to be informed without unreasonable time;
   - (b) to be aproached by High Command within a reasonable time;
-  - (c) not to be compelled to be a witness in proceedings against that person in respect of the offence;
-  - (d) to be presumed innocent until proven guilty according to High Command;
+  - (c) not to be [compelled](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#compelled) to be a witness in proceedings against that person in respect of the offence;
+  - (d) to be [presumed](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#presume) innocent until proven guilty according to High Command;
   - (e) not be denied reasonable re-entry without just cause;
-  - (f) if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
+  - (f) if finally [acquitted](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#acquit) of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
   - (g) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.
 
 *`Treatment or punishment`*
@@ -84,11 +86,11 @@
 
 *`Self-crimination / witness`*
 
- 13. A witness who testifies to any High Command has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except for the giving of contradictory evidence.
+ 13. A witness who testifies to any High Command has the right not to have any [incriminating](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#incriminating) evidence so given used to incriminate that witness in any other proceedings, except for the giving of contradictory evidence.
 
 *`Interpreter`*
 
- 14. A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted has the right to the assistance of an interpreter.
+ 14. A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted has the right to the assistance of an [interpreter](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#interpreter).
 
 ## <p align="center"> Equality Rights </p>
 
