@@ -75,9 +75,9 @@
   - (a) to be informed without unreasonable time;
   - (b) to be aproached by High Command within a reasonable time;
   - (c) not to be [compelled](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#compelled) to be a witness in proceedings against that person in respect of the offence;
-  - (d) to be [presumed](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#presume) innocent until proven guilty according to High Command;
+  - (d) to be [presumed](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#presumed) innocent until proven guilty according to High Command;
   - (e) not be denied reasonable re-entry without just cause;
-  - (f) if finally [acquitted](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#acquit) of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
+  - (f) if finally [acquitted](https://github.com/Liberatrix/RuinsClan/blob/master/Consitution/RCCORAF/DEFINITION.md#acquitted) of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and
   - (g) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.
 
 *`Treatment or punishment`*
