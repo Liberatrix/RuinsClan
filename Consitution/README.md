@@ -4,4 +4,8 @@
 
 ### <p align="center"> Constitution </p>
 
-[1. Ruins Clan Charter of Rights and Freedoms](RCCORAF/RCCORAF.md)
+#### Ruins Clan Charter of Rights and Freedoms
+
+[1. Definitions within Ruins Clan Charter of Rights and Freedoms](RCCORAF/DEFINITION.md)
+[2. Ruins Clan Charter of Rights and Freedoms](RCCORAF/RCCORAF.md)
+
